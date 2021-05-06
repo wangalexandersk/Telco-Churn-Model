@@ -1,2 +1,2 @@
-# churn_model
-Assignment 5 - SCS
+# Predicting Customer Churn for Telco Subscribers
+
